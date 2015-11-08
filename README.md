@@ -1,2 +1,2 @@
 # Assignments
-This repository contains the assigments of the course: Exploratory Data Analysis
+This repository contains files for the assigment1 of the course: Exploratory Data Analysis
